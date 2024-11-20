@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 99.99,
+    "image": "images/headphones.jpg",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 199.99,
+    "image": "images/smartwatch.jpg",
+    "description": "Stay connected on the go with this stylish smart watch."
+  },
+  [
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 99.99,
+    "image": "images/headphones.jpg",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 199.99,
+    "image": "images/smartwatch.jpg",
+    "description": "Stay connected on the go with this stylish smart watch."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 49.99,
+    "image": "images/speaker.jpg",
+    "description": "Portable Bluetooth speaker with excellent sound quality."
+  },
+  {
+    "id": 4,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 79.99,
+    "image": "images/fitness-tracker.jpg",
+    "description": "Track your daily activity and stay healthy with this fitness tracker."
+  },
+  {
+    "id": 5,
+    "name": "Laptop Backpack",
+    "category": "Accessories",
+    "price": 39.99,
+    "image": "images/backpack.jpg",
+    "description": "Durable laptop backpack with multiple compartments for storage."
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 29.99,
+    "image": "images/gaming-mouse.jpg",
+    "description": "Ergonomic gaming mouse with customizable RGB lighting."
+  },
+  {
+    "id": 7,
+    "name": "Coffee Maker",
+    "category": "Home Appliances",
+    "price": 89.99,
+    "image": "images/coffee-maker.jpg",
+    "description": "Brew the perfect cup of coffee with this easy-to-use coffee maker."
+  },
+  {
+    "id": 8,
+    "name": "Digital Camera",
+    "category": "Electronics",
+    "price": 399.99,
+    "image": "images/camera.jpg",
+    "description": "Capture stunning photos and videos with this high-resolution camera."
+  },
+  {
+    "id": 9,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 19.99,
+    "image": "images/yoga-mat.jpg",
+    "description": "Non-slip yoga mat for a comfortable workout experience."
+  },
+  {
+    "id": 10,
+    "name": "Electric Kettle",
+    "category": "Home Appliances",
+    "price": 24.99,
+    "image": "images/kettle.jpg",
+    "description": "Boil water quickly with this stylish and efficient electric kettle."
+  }
+]
+
+]
