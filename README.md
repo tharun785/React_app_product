@@ -48,10 +48,11 @@ Implemented dynamic filtering logic using filter and sort to handle both price r
   
 
 ## Product Filtering based on categories and price
-   
-
- 
+  
  ![react_product](https://github.com/user-attachments/assets/68dcc903-e7c6-41ed-afe0-0515d3c29203)
+
+![react_app](https://github.com/user-attachments/assets/73e0aea5-7545-402a-b3f0-40ed60432fa2)
+
 ## Future Enhancements
 Add user authentication for managing personalized carts.
 Introduce pagination for large product lists.
