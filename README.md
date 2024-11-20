@@ -51,7 +51,7 @@ Implemented dynamic filtering logic using filter and sort to handle both price r
    
 
  
- 
+ ![react_product](https://github.com/user-attachments/assets/68dcc903-e7c6-41ed-afe0-0515d3c29203)
 ## Future Enhancements
 Add user authentication for managing personalized carts.
 Introduce pagination for large product lists.
